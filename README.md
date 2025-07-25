@@ -44,8 +44,18 @@ Use the `/buy` and `/access` commands.
 
 ## 🆘 Support
 
-Telegram: [@metashark_svg](https://t.me/metashark_svg)
+Need help or want a custom build?  
+Contact: [@GramHackerBot](https://t.me/GramHackerBot) 
 
 ---
 
-> ⚠️ Educational use only. Misuse is your responsibility.
+## ⚠️ Disclaimer
+
+This tool is intended strictly for **educational, forensic, or ethical penetration testing purposes**.  
+**Unauthorized use is prohibited and may be illegal in your jurisdiction.**  
+The developer assumes no liability for misuse.
+
+---
+
+© 2025 **MetaShark-svg**  
+All rights reserved. Redistribution or resale is strictly prohibited.
