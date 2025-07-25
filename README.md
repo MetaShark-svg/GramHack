@@ -12,6 +12,14 @@ GramHack performs dictionary-based attacks with Tor identity rotation. It's inte
 
 ---
 
+### ⚡ GramHack v1.0 – Terminal Preview
+
+> Below is a preview of GramHack in action inside a Linux terminal:
+
+![GramHack Terminal](https://github.com/MetaShark-svg/GramHack/blob/main/gramhack_screenshot.png?raw=true)
+
+---
+
 ## 🔓 How to Access
 
 Access to the tool requires a small ETH payment for private decryption:
