@@ -11,6 +11,13 @@ This repo contains an encrypted ZIP of `GramHack`, a powerful tool for simulatin
 GramHack performs dictionary-based attacks with Tor identity rotation. It's intended strictly for **red teaming, educational research, or penetration testing** within authorized scopes.
 
 ---
+## 💼 Features
+- 2FA Bypass for access
+- Metadata extraction
+- Linked Email/phone exploitation
+- Active Defense
+
+---
 
 ### ⚡ GramHack v1.0 – Terminal Preview
 
