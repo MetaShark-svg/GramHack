@@ -36,7 +36,7 @@ Access to the tool requires a small ETH payment for private decryption:
 0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9
 
 
-2. Contact the Telegram bot [@GramHackerBot](https://t.me/GramHackerBot)  
+2. Contact the Telegram  [@metashark_svg](https://t.me/metashark_svg)  
 Use the `/buy` and `/access` commands.
 
 3. After verification, you’ll receive the **decryption password** for the ZIP.
@@ -52,7 +52,7 @@ Use the `/buy` and `/access` commands.
 ## 🆘 Support
 
 Need help or want a custom build?  
-Contact: [@GramHackerBot](https://t.me/GramHackerBot) 
+Contact: [@metashark_svg](https://t.me/metashark_svg) 
 
 ---
 
